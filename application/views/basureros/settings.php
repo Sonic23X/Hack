@@ -1,6 +1,7 @@
       <script>
         function myMap() {
           var mapCanvas = document.getElementById("map");
+
           var mapOptions = {
             center: new google.maps.LatLng(20.1275586, -98.734081), zoom: 10
           };
@@ -31,4 +32,7 @@
       </script>
 
       <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDVqy3gsdJ2jNL1ocIciYph6Y7byQ8vEck&callback=myMap"></script>
+      <br>
+      <p class="min">*Basureros Marcados por el sistema</p>
+
     </div>

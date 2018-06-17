@@ -20,10 +20,6 @@ h6 {
   letter-spacing: 0.1rem;
 }
 
-.bg-black {
-  background-color: #000 !important;
-}
-
 .rounded-pill {
   border-radius: 5rem;
 }

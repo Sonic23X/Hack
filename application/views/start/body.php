@@ -1,10 +1,12 @@
     <link rel="stylesheet" href="<?= base_url()?>resources/css/start.css">
 
-    <header class="masthead text-center text-white" style="bac">
+    <header class="masthead text-center text-white">
       <div class="masthead-content">
         <div class="container">
           <h1 class="masthead-heading mb-0">Crash Bash</h1>
           <h6 >Proyecto de Hack Hidalgo</h6>
+          <br>
+          <input class="btn text-white btn-success " type="Button" id="link" value="Ver Rutas">
         </div>
       </div>
     </header>
