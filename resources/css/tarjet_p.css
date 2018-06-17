@@ -1,0 +1,46 @@
+.tarjet_person
+{
+  padding: 2% 2% 2% 2%;
+  border-style: solid;
+  border-color: rgba(84, 176, 65, 0.82);
+  border-radius: 50px;
+  margin-bottom: 2%;
+}
+
+.foto
+{
+  width: 200px;
+  height: 200px;
+}
+
+.left
+{
+  vertical-align: top;
+  width: 30%;
+  border-right: 1px solid rgba(84, 176, 65, 0.82);
+  margin-left: 3%;
+
+}
+
+.right
+{
+  margin-left: 3%;
+  width: 48%;
+}
+
+.left, .right
+{
+  display: inline-block;
+}
+
+.name_p
+{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.carrier
+{
+  font-size: 14px;
+  color: gray;
+}

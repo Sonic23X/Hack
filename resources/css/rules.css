@@ -1,0 +1,19 @@
+
+.article
+{
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 2% 2% 2% 2%;
+  border-bottom: 1px solid;
+  border-color: rgba(84, 176, 65, 0.82);
+}
+
+.num
+{
+  font-weight: bold;
+}
+
+.text
+{
+  text-align: justify;
+}

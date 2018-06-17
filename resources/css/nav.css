@@ -1,0 +1,39 @@
+.navbar
+{
+  color: #000000 !important;
+  background-color: rgba(84, 176, 65, 0.82);
+  line-height: 1.42857143 !important;
+}
+
+.navbar-brand
+{
+  color: #000000 !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a
+{
+  color: #000000 !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li a
+{
+  color: #FFFFFF !important;
+}
+
+.navbar-nav li a:hover
+{
+  color: grey !important;
+}
+
+.container
+{
+  margin-top: 2%;
+}
+
+.title
+{
+  color: rgba(84, 176, 65, 0.82);
+  font-size: 28px;
+  font-weight: bold;
+  font-family: cursive;
+}
